@@ -1,0 +1,50 @@
+Symbol,Name,LastSale,MarketCap,ADR TSO,IPOyear,Sector,Industry,Summary Quote
+AAPL,Apple Inc.,117.06,6.24201E+11,n/a,1980,Technology,Computer Manufacturing,http://www.nasdaq.com/symbol/aapl
+GOOGL,Alphabet Inc.,812.2,5.598E+11,n/a,n/a,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/googl
+GOOG,Alphabet Inc.,794.56,5.47641E+11,n/a,2004,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/goog
+MSFT,Microsoft Corporation,63.54,4.94046E+11,n/a,1986,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/msft
+FB,"Facebook, Inc.",119.04,3.43093E+11,n/a,2012,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/fb
+INTC,Intel Corporation,36.98,1.75248E+11,n/a,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/intc
+ORCL,Oracle Corporation,38.83,1.59294E+11,n/a,1986,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/orcl
+IBM,International Business Machines Corporation,167.33,1.59106E+11,n/a,n/a,Technology,Computer Manufacturing,http://www.nasdaq.com/symbol/ibm
+CSCO,"Cisco Systems, Inc.",30.42,1.52701E+11,n/a,1990,Technology,Computer Communications Equipment,http://www.nasdaq.com/symbol/csco
+TSM,Taiwan Semiconductor Manufacturing Company Ltd.,29.14,1.51122E+11,n/a,1997,Technology,Semiconductors,http://www.nasdaq.com/symbol/tsm
+SAP,SAP SE,85.95,1.0559E+11,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/sap
+QCOM,QUALCOMM Incorporated,67.16,99187709697,n/a,1991,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/qcom
+DCM,"NTT DOCOMO, Inc",23.07,85826297846,n/a,n/a,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/dcm
+TXN,Texas Instruments Incorporated,74.17,74131856446,n/a,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/txn
+AVGO,Broadcom Limited,182.29,72429195649,n/a,2009,Technology,Semiconductors,http://www.nasdaq.com/symbol/avgo
+NVDA,NVIDIA Corporation,105.83,57042370000,n/a,1999,Technology,Semiconductors,http://www.nasdaq.com/symbol/nvda
+ADBE,Adobe Systems Incorporated,105.51,52170054670,n/a,1986,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/adbe
+CRM,Salesforce.com Inc,70.11,48845637000,n/a,2004,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/crm
+ADP,"Automatic Data Processing, Inc.",102.47,46231719546,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/adp
+DVMT,Dell Technologies Inc.,57.29,44950632651,n/a,n/a,Technology,Computer Manufacturing,http://www.nasdaq.com/symbol/dvmt
+BIDU,"Baidu, Inc.",163.92,44918232094,274025330,2005,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/bidu
+ITW,Illinois Tool Works Inc.,124.7,43770291577,n/a,n/a,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/itw
+HPE,Hewlett Packard Enterprise Company,23.89,39772482836,n/a,2015,Technology,Computer Manufacturing,http://www.nasdaq.com/symbol/hpe
+YHOO,Yahoo! Inc.,39.15,37353973470,n/a,1996,Technology,EDP Services,http://www.nasdaq.com/symbol/yhoo
+AMAT,"Applied Materials, Inc.",32.58,35074654966,n/a,1972,Technology,Semiconductors,http://www.nasdaq.com/symbol/amat
+INFY,Infosys Limited,14.97,34216206398,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/infy
+CTSH,Cognizant Technology Solutions Corporation,56.28,34145333481,n/a,1998,Technology,EDP Services,http://www.nasdaq.com/symbol/ctsh
+VMW,"Vmware, Inc.",81.91,33711362050,n/a,2007,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/vmw
+NXPI,NXP Semiconductors N.V.,97.7,32579404076,n/a,2010,Technology,Semiconductors,http://www.nasdaq.com/symbol/nxpi
+ETN,"Eaton Corporation, PLC",67.82,30634294000,n/a,n/a,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/etn
+INTU,Intuit Inc.,117.69,30207331065,n/a,1993,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/intu
+NOK,Nokia Corporation,4.76,27608000000,n/a,1994,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/nok
+ATVI,"Activision Blizzard, Inc",36.9,27424573390,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/atvi
+HPQ,HP Inc.,15.14,25820528776,n/a,n/a,Technology,Computer Manufacturing,http://www.nasdaq.com/symbol/hpq
+EA,Electronic Arts Inc.,79.66,24037843847,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/ea
+FISV,"Fiserv, Inc.",108.57,23565913884,n/a,1986,Technology,EDP Services,http://www.nasdaq.com/symbol/fisv
+WIT,Wipro Limited,9.58,23152463467,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/wit
+ADI,"Analog Devices, Inc.",73.6,22681353216,n/a,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/adi
+MU,"Micron Technology, Inc.",20.58,22623947873,n/a,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/mu
+OMC,Omnicom Group Inc.,85.94,20271598960,n/a,n/a,Technology,Advertising,http://www.nasdaq.com/symbol/omc
+WDC,Western Digital Corporation,69.22,19760503773,n/a,n/a,Technology,Electronic Components,http://www.nasdaq.com/symbol/wdc
+KYO,Kyocera Corporation,50.61,18610070979,n/a,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/kyo
+LRCX,Lam Research Corporation,106.48,17338134034,n/a,1984,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/lrcx
+ADSK,"Autodesk, Inc.",75.63,16831936902,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/adsk
+CERN,Cerner Corporation,48.54,16479151713,n/a,1986,Technology,EDP Services,http://www.nasdaq.com/symbol/cern
+XLNX,"Xilinx, Inc.",60.24,15211281977,n/a,1990,Technology,Semiconductors,http://www.nasdaq.com/symbol/xlnx
+SYMC,Symantec Corporation,24.25,15117916085,n/a,1989,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/symc
+LLTC,Linear Technology Corporation,62.52,15027173407,n/a,1986,Technology,Semiconductors,http://www.nasdaq.com/symbol/lltc
+CHKP,Check Point Software Technologies Ltd.,85.66,14982064460,n/a,1996,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/chkp
