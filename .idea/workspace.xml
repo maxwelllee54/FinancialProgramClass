@@ -22,7 +22,7 @@
         <entry file="file://$PROJECT_DIR$/Project/Project3/Project3.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="1" />
+              <selected id="4" />
             </state>
           </provider>
         </entry>
@@ -31,19 +31,16 @@
         <entry file="file://$PROJECT_DIR$/intradayData.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="6" />
+              <selected id="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IntradayStockPriceCrawler.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IntradayStockPriceCrawler.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="60" column="12" lean-forward="false" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="12" />
-              <folding>
-                <element signature="e#75#90#0" expanded="true" />
-              </folding>
+      <file leaf-file-name="day_trading_system.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day_trading_system.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
             </state>
           </provider>
         </entry>
@@ -68,8 +65,9 @@
         <option value="$PROJECT_DIR$/Homework/HW2/HW2.ipynb" />
         <option value="$PROJECT_DIR$/IntradayStockPriceCrawler.py" />
         <option value="$PROJECT_DIR$/5_min_it.csv" />
-        <option value="$PROJECT_DIR$/Project/Project3/Project3.ipynb" />
+        <option value="$PROJECT_DIR$/day_trading_system.ipynb" />
         <option value="$PROJECT_DIR$/intradayData.ipynb" />
+        <option value="$PROJECT_DIR$/Project/Project3/Project3.ipynb" />
       </list>
     </option>
   </component>
@@ -387,7 +385,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.4982733" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32690248" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19465241" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19399786" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -548,10 +546,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Project/Project3/Project3.ipynb">
+    <entry file="file://$PROJECT_DIR$/day_trading_system.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Project3/Project3.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="4" />
         </state>
       </provider>
     </entry>
